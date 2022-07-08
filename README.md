@@ -5,3 +5,4 @@
 ## Interface
 
 ## Implement
+    对udp需要做可靠性设计，解决丢包和乱序问题。
